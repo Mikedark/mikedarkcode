@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Flutter Developer 💻 🖥
+
+### Web developer and dev Flutter jr eager to continue learning and sharing all the knowledge acquired. 🤘🤘🤘
 <!--
 **mikedarkcode/mikedarkcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
