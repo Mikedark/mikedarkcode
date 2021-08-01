@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Flutter Developer 💻 🖥
+### Web Developer and Flutter Developer 💻 🖥
 
 ### Web developer and dev Flutter jr eager to continue learning and sharing all the knowledge acquired. 🤘🤘🤘
 <!--
